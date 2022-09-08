@@ -9,6 +9,7 @@
 * HTML
 * CSS
 * JavaScript
+* Firebase
 
 # 💬 Assuntos abordados
 * HTML
