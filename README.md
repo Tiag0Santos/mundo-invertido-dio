@@ -1,4 +1,4 @@
-# Mundo invertido Dio
+# Mundo Invertido
 ##### Essa Landing Page foi desenvolvida na semana Front-end da Dio e inspirada na série Stranger Things.
 ##### Além do Javascript que altera as cores da pagina, ela conta com um banco de dados com o Firebase.
 
